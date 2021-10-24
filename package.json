@@ -1,0 +1,28 @@
+{
+    "name": "week12_homework",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brijeeta/Week12_HomeWork.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/brijeeta/Week12_HomeWork/issues"
+    },
+    "homepage": "https://github.com/brijeeta/Week12_HomeWork#readme",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "inquirer": "^8.2.0",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.2",
+        "nodemon": "^2.0.14",
+        "sequelize": "^6.7.0"
+    }
+}
