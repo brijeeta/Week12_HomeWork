@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon server.js"
+        "start": "node server.js"
     },
     "repository": {
         "type": "git",
@@ -17,12 +17,13 @@
     },
     "homepage": "https://github.com/brijeeta/Week12_HomeWork#readme",
     "dependencies": {
+        "chalk": "^4.1.2",
+        "console.table": "^0.10.0",
         "dotenv": "^10.0.0",
         "express": "^4.17.1",
         "inquirer": "^8.2.0",
         "mysql": "^2.18.1",
         "mysql2": "^2.3.2",
-        "nodemon": "^2.0.14",
-        "sequelize": "^6.7.0"
+        "nodemon": "^2.0.14"
     }
 }
