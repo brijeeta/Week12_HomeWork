@@ -19,6 +19,7 @@ The application gives yout the following options:
 ## Demo
 
 * [GitHub Repository](https://github.com/brijeeta/Week12_HomeWork/)
-* [Demo video]()
+* [Demo video part 1](https://watch.screencastify.com/v/dgWNihQxsuVJk5kF4dv4)
+* [Demo video part 2](https://watch.screencastify.com/v/QnAFQzMovRsxOxfmNJyq)
 
  
